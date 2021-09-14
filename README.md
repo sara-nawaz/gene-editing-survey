@@ -8,3 +8,6 @@ people respond to these applications when they are presented in the context of s
 expressing opinions on this topic (and why?)
 
 Design of this survey was influenced by [previous focus groups and interviews](https://github.com/sara-nawaz/Gene-editing-Q-method), which  served as the basis for another chapter of my PhD thesis as well as a manuscript currently under review.
+
+A few notes on code: This project was a steep learning curve for me, so the code is very messy (!). I plan to go back and clean up my code when I have the time, but
+I haven't done this yet, so reader beware.
