@@ -7,4 +7,4 @@ feel about new gene editing technologies in agriculture? Are they uncomfortable 
 people respond to these applications when they are presented in the context of specific tradeoffs, and to what extent do participants prefer to opt out entirely of
 expressing opinions on this topic (and why?)
 
-Design of this survey was influenced by previous work that included focus groups and interviews (analysis of which can also be found on my GitHub page--under "Gene editing Q Method study"--which was also a chapter of my PhD thesis and is also a manuscript currently under review.
+Design of this survey was influenced by [previous focus groups and interviews](https://github.com/sara-nawaz/Gene-editing-Q-method), which  served as the basis for another chapter of my PhD thesis as well as a manuscript currently under review.
